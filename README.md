@@ -1,2 +1,2 @@
 # rrt
-React学习之路
+ES6学习，初步React
