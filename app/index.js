@@ -1,3 +1,8 @@
-import { mapFilterTest } from './mapFilterTest';
+import React from 'react';
+import ReactDOM from 'react-dom';
+import Global from './component/Global';
 
-mapFilterTest();
+ReactDOM.render(
+    <Global />,
+    document.getElementById("root")
+)
